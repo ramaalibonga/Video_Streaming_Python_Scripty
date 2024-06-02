@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 
 
-### prerequsite to install script 
+### prerequsite to run this python  script 
 * Install python
    [python](https://www.python.org/)
 * Use this command to install requirements.txt , this file include all library required to run our scripty.
