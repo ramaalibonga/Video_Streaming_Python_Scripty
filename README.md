@@ -1,10 +1,10 @@
-# video streaming python scripty
+# Python Video Streaming Scripty
 <a name="readme-top"></a>
 
 
-### prerequsite to run this python  script 
+# How to Run Scripty Locally
 * Install python
-   [python](https://www.python.org/)
+   [Install python](https://www.python.org/)
   
 * Clone this project from github
   ```sh
